@@ -38,3 +38,8 @@ RabbitMQ รองรับลำดับความสำคัญที่ 1
 #### 2. Transient
 
 เก็บข้อมูลหว้ใน ram ข้อมูลจะหายเมื่อมีการ restart server
+
+
+### Reference
+
+- https://www.youtube.com/watch?v=oq1fOr6Ryws&t=20s
