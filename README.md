@@ -34,6 +34,8 @@ RabbitMQ รองรับลำดับความสำคัญที่ 1
 #### 1. durable
 
 เก็บข้อมูลหว้ใน disk
+RabbitMQ Durable queues are those that can withstand a RabbitMQ restart. If a queue is not durable, all messages will be lost if RabbitMQ is shut down for any reason. For messages to survive restarts, both of these configurations must be true.
+
 
 #### 2. Transient
 
